@@ -1,18 +1,10 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+![headshot](/assets/img/profile.png)
 
-### Getting Started
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt fringilla faucibus. Duis in euismod neque, sed hendrerit lectus. Vivamus nisl dui, pretium et purus lacinia, accumsan volutpat lorem. Fusce vel auctor magna. Duis ultrices ornare ex nec sodales. Aliquam scelerisque nisl sollicitudin fringilla euismod. Nulla vitae ante vitae elit interdum condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris tellus lectus, venenatis vitae metus aliquet, dictum imperdiet elit. Donec sollicitudin posuere tincidunt.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+In at sagittis sapien, ut aliquet lectus. Aenean porta facilisis consectetur. Ut nec turpis nec risus finibus pharetra sollicitudin ac arcu. Vivamus vulputate augue enim, id auctor ante fringilla ac. Suspendisse nec massa non mi molestie rutrum. Integer metus sapien, tempus ac imperdiet eget, suscipit at turpis. Phasellus semper mi vel metus vehicula pulvinar. Duis et hendrerit urna. Phasellus malesuada, nulla a egestas accumsan, mi lectus mattis eros, sit amet euismod elit mauris eget mi. Maecenas urna lectus, tempus sed nibh in, ultricies dapibus turpis. Sed luctus tincidunt quam sit amet ultricies.
