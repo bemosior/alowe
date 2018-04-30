@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![headshot](/assets/img/profile.png)
+![headshot]({{ "/assets/img/profile.png" | prepend: site.github.url | replace: 'http://', '//' }})
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt fringilla faucibus. Duis in euismod neque, sed hendrerit lectus. Vivamus nisl dui, pretium et purus lacinia, accumsan volutpat lorem. Fusce vel auctor magna. Duis ultrices ornare ex nec sodales. Aliquam scelerisque nisl sollicitudin fringilla euismod. Nulla vitae ante vitae elit interdum condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris tellus lectus, venenatis vitae metus aliquet, dictum imperdiet elit. Donec sollicitudin posuere tincidunt.
 
