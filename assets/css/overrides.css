@@ -1,20 +1,20 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Mono', monospace;
-    color: #051A38;
+    color: rgb(57, 57, 57);
 }
 
 .masthead-subtitle, .masthead-title a {
-    color: #051A38;
+    color: rgb(57, 57, 57);
 }
 
 .footer a {
-    color: #051A38;
+    color: rgb(57, 57, 57);
 }
 
 body {
     font-family: 'Roboto Mono', monospace;
     background-color: #B86E53;
-    color: #051A38;
+    color: rgb(57, 57, 57);
 }
 
 .masthead {
