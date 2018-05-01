@@ -2,7 +2,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
+      {{ site.title }}
     {% else %}
       {{ page.title }} | {{ site.title }}
     {% endif %}
@@ -17,7 +17,7 @@
   <!-- Use Atom -->
   {% feed_meta %}
   <!-- Use RSS-2.0 -->
-  <!--<link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+  <!--<link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }}"/>
   //-->
 
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
