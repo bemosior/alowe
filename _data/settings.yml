@@ -6,7 +6,9 @@
 # google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Bio', path: 'menu', url: 'bio.html'}
+  - {name: 'what I do', path: 'menu', url: 'what_i_do.html'}
+  - {name: 'contact', path: 'menu', url: 'contact.html'}
+  - {name: 'bio', path: 'menu', url: 'bio.html'}
 # - {name: 'Writing', path: 'menu', url: 'writing.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
