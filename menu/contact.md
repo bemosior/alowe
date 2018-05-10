@@ -7,10 +7,6 @@ I’m based in Pittsburgh, Pennsylvania.
 
 Reach me on the [original killer app](mailto:amandalowephd@gmail.com). I usually check my email daily. I don't if I'm immersed in something that requires my full concentration.
 
-You can also get me via [Flywheel](https://flywheeldesignfirm.com/).
-
-I blog [here](https://medium.com/being-human-is-a-feature-not-a-bug). 
-
 I aim to post a picture a day [here](https://www.instagram.com/_sun_lite/) (though I'm not too strict and sometimes get derailed).  
 
 I check my [LinkedIn](https://www.linkedin.com/in/loweamanda) and [Facebook](https://www.facebook.com/profile.php?id=100004169838616) regularly, and enjoy deep conversations there.
